@@ -2,6 +2,11 @@ pico-8 cartridge // http://www.pico-8.com
 version 36
 __lua__
 #include icebreaker/core.lua
+#include icebreaker/hero.lua
+#include icebreaker/map.lua
+#include icebreaker/mob.lua
+#include icebreaker/movement.lua
+#include icebreaker/actions.lua
 
 __gfx__
 000000001c1111c16c6c6c6c7cccc7c700066000777777770cccccc0666666600000000000000000000000000000000000000000000000000000000000000000
